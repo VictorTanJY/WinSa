@@ -5,5 +5,5 @@ Covid-19 has resulted employees to work from home, leaving non-tech savvy employ
 
 **Installation**
 
-1) Ensure that CIS-CAT-Lite-v4.19.0 is downloaded.
+1) Ensure that all the files are downloaded.
 2) Run WinSA as Administrator.
