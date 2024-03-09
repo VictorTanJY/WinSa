@@ -5,6 +5,5 @@ Covid-19 has resulted employees to work from home, leaving non-tech savvy employ
 
 **Installation**
 
-1) Download the ISSE-AUDITING_MP.ova file.
-2) Ensure that CIS-CAT-Lite-v4.19.0 is downloaded.
-3) Run WinSA as Administrator.
+1) Ensure that CIS-CAT-Lite-v4.19.0 is downloaded.
+2) Run WinSA as Administrator.
